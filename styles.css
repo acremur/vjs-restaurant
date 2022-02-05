@@ -446,6 +446,7 @@ section:nth-child(even) {
 }
 
 .review .slide {
+    max-width: 100vw;
     padding: 2rem;
     box-shadow: var(--box-shadow);
     border: 0.1rem solid rgba(0, 0, 0, 0.2);
